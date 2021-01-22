@@ -74,3 +74,8 @@ div.news{
 .header1{
     font-family:'Nunito', sans-serif;
 }
+
+
+a.blog_link:hover{
+    color:black;
+}
